@@ -310,7 +310,7 @@ class UIComponents:
 
 # ==================== APPLICATION SETUP ====================
 # Initialize services
-API_KEY = "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"
+API_KEY = "API_KEY"
 life_coach = LifeCoach(API_KEY)
 habit_manager = HabitManager()
 ui_components = UIComponents()
